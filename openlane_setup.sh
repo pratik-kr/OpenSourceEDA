@@ -18,7 +18,7 @@ echo "=============================================="
 echo
 
 sudo apt -y update
-sudo apt install -y build-essential --fix-missing
+sudo apt install -y build-essential -f
 sudo apt-get install -y lsb-core
 sudo apt install -y git-all
 sudo apt install -y ufw
