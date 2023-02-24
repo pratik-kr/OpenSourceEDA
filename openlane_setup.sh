@@ -62,7 +62,7 @@ echo "=================================="
 
 sudo apt install -y klayout
 # making tools folder
-mkdir -p apr; cd apr
+mkdir -p EDATool; cd EDATool
 
 echo "=================================="
 echo "--------MAGIC INSTALLATION--------"
